@@ -43,6 +43,7 @@ employee-directory-app/
 
 # Clone the repository
 git clone https://github.com/nishanthucode/employee-directory-app.git
+
 cd employee-directory-app
 
 # Install packages
