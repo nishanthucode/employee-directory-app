@@ -42,7 +42,7 @@ employee-directory-app/
 ### Setup
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/employee-directory-app.git
+git clone https://github.com/nishanthucode/employee-directory-app.git
 cd employee-directory-app
 
 # Install packages
